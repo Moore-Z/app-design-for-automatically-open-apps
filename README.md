@@ -1,0 +1,1 @@
+# app-design-for-automatically-open-apps
